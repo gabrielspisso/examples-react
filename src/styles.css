@@ -1,0 +1,10 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.cuadradito {
+  background-color: aqua;
+  width: 200px;
+  height: 200px;
+}
